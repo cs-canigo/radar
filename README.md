@@ -26,4 +26,5 @@ Són els quatre quadrants:
 TRUE si és nou i llavors apareix amb un triangle. FALSE si no ho és i surt com un cercle.
 
 ### Descripció ###
-Aquesta és la descripció que surt en prèmer un dels elements del radar. Es pot fer servir html bàsic com el tag <strong>strong per enfatitzar paraules o frases</strong> i insertar <a href="http://canigo.ctti.gencat.cat"> enllaços a documentació i material de referència</a>.
+Aquesta és la descripció que surt en prèmer un dels elements del radar. Es pot fer servir html bàsic com el tag <strong>strong per enfatitzar paraules o frases</strong> i insertar <a href='http://canigo.ctti.gencat.cat'> enllaços a documentació i material de referència</a>.
+Cal tenir en compte que la descripció ha d'anar delimitada per cometes dobles i que els enllaços web han d'anar delimitats per cometes simples.
