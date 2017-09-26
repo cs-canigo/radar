@@ -13,6 +13,7 @@ Especifica en quina anella s'ha de pintar l'element
 - Provar, cal provar per acabar de tenir experiència amb el producte
 - Avaluar, informar-se sobre l'element i començar a veure llocs on aplicar-lo
 - Precaució, elements que han demostrat no ser tant eficients com s'esperava i que introdueixen deute tècnic a les aplicacions que els fan servir. 
+Cal seguir estrictament l'ordre Adoptar/Provar/Avaluar/Precaució per a incloure els elements. Aquest ordre es reflecteix directament sobre el radar. 
 
 ### Quadrant ###
 Són els quatre quadrants:
