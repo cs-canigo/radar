@@ -1,15 +1,4 @@
-﻿name,isNew,ring,quadrant,description
-React.js,TRUE,adoptar,llenguatges i entorns de treball,
-Redux,TRUE,adoptar,llenguatges i entorns de treball,
-Spring Cloud,TRUE,adoptar,llenguatges i entorns de treball," <a href='http://projects.spring.io/spring-cloud/'>Spring Cloud</a>Spring Cloud és una nova suite de components de Spring que ens ajuda a desplegar el nostre artefacte (WAR o JAR) a plataformes cloud. Suporta múltiples clouds (Heroku, Cloud Foundry) a través del concepte de Cloud Connector"
-Markdown,TRUE,adoptar,llenguatges i entorns de treball,
-Ember.js,TRUE,provar,llenguatges i entorns de treball,
-Spring Boot,TRUE,provar,llenguatges i entorns de treball,
-Angular  2,TRUE,avaluar,llenguatges i entorns de treball,
-Scala,TRUE,avaluar,llenguatges i entorns de treball,
-Golang,TRUE,avaluar,llenguatges i entorns de treball,
-Kotlin,TRUE,avaluar,llenguatges i entorns de treball,
-AngularJS,TRUE,precaució,llenguatges i entorns de treball,
+name,isNew,ring,quadrant,description
 Babel,TRUE,adoptar,eines," <a href='http://babeljs.io'>Babel.js</a> s'ha convertit en el compilador preferit per escriure JavaScript d'última generació. El seu ecosistema està creixent gràcies a la reestructuració del seu <a href='http://babeljs.io/docs/plugins/#presets'>sistema de connectors</a>. Permet als desenvolupadors escriure codi ES6 (i fins i tot ES7) que s'executi al navegador o al servidor sense sacrificar compatibilitat enrere per a navegadors antics, amb una configuració molt reduïda. Compta amb suport de primera classe per a diferents sistemes de compilació i proves, facilitant la integració amb qualsevol flux de treball actual. És una gran peça de programari que s'ha convertit en el principal impulsor de l'adopció i la innovació ES6 (i ES7). "
 XCA,TRUE,adoptar,eines,"Eina que permet muntar un CA i generar certificats de forma fàcil i amigable de cara a l'usuari final"
 Vagrant,TRUE,adoptar,eines," <a href='https://www.vagrantup.com/'>Vagrant</a> és una eina per a desenvolupadors que facilita la creació d'entorns virtuals per a desenvolupament. En Vagrant podem instal·lar i configurar programari en una màquina virtual perquè puguem simular que estem al servidor en el qual s'allotjarà l'aplicació"
@@ -23,6 +12,17 @@ Zipkin,TRUE,avaluar,eines,
 Android-x86,TRUE,avaluar,eines,
 Gatling,TRUE,avaluar,eines,
 Jenkins as a deployment pipeline,TRUE,precaució,eines,
+React.js,TRUE,adoptar,llenguatges i entorns de treball,
+Redux,TRUE,adoptar,llenguatges i entorns de treball,
+Spring Cloud,TRUE,adoptar,llenguatges i entorns de treball," <a href='http://projects.spring.io/spring-cloud/'>Spring Cloud</a>Spring Cloud és una nova suite de components de Spring que ens ajuda a desplegar el nostre artefacte (WAR o JAR) a plataformes cloud. Suporta múltiples clouds (Heroku, Cloud Foundry) a través del concepte de Cloud Connector"
+Markdown,TRUE,adoptar,llenguatges i entorns de treball,
+Ember.js,TRUE,provar,llenguatges i entorns de treball,
+Spring Boot,TRUE,provar,llenguatges i entorns de treball,
+Angular  2,TRUE,avaluar,llenguatges i entorns de treball,
+Scala,TRUE,avaluar,llenguatges i entorns de treball,
+Golang,TRUE,avaluar,llenguatges i entorns de treball,
+Kotlin,TRUE,avaluar,llenguatges i entorns de treball,
+AngularJS,TRUE,precaució,llenguatges i entorns de treball,
 Versions LTS,TRUE,adoptar,tècniques,"sempre fer servir versions lts de les llibreries"
 Consumer-driven contract testing,TRUE,provar,tècniques,
 Pipelines as code,TRUE,provar,tècniques,
