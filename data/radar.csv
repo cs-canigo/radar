@@ -1,1 +1,55 @@
-﻿name,isNew,ring,quadrant,descriptionReact.js,TRUE,adoptar,llenguatges i entorns de treball,Redux,TRUE,adoptar,llenguatges i entorns de treball,Spring Cloud,TRUE,adoptar,llenguatges i entorns de treball, <a href='http://projects.spring.io/spring-cloud/'>Spring Cloud</a>Spring Cloud és una nova suite de components de Spring que ens ajuda a desplegar el nostre artefacte (WAR o JAR) a plataformes cloud. Suporta múltiples clouds (Heroku, Cloud Foundry) a través del concepte de Cloud ConnectorMarkdown,TRUE,adoptar,llenguatges i entorns de treball,Ember.js,TRUE,provar,llenguatges i entorns de treball,Spring Boot,TRUE,provar,llenguatges i entorns de treball,Angular  2,TRUE,avaluar,llenguatges i entorns de treball,Scala,TRUE,avaluar,llenguatges i entorns de treball,Golang,TRUE,avaluar,llenguatges i entorns de treball,Kotlin,TRUE,avaluar,llenguatges i entorns de treball,AngularJS,TRUE,precaució,llenguatges i entorns de treball,Babel,TRUE,adoptar,eines, <a href='http://babeljs.io'>Babel.js</a> s'ha convertit en el compilador preferit per escriure JavaScript d'última generació. El seu ecosistema està creixent gràcies a la reestructuració del seu <a href='http://babeljs.io/docs/plugins/#presets'>sistema de connectors</a>. Permet als desenvolupadors escriure codi ES6 (i fins i tot ES7) que s'executi al navegador o al servidor sense sacrificar compatibilitat enrere per a navegadors antics, amb una configuració molt reduïda. Compta amb suport de primera classe per a diferents sistemes de compilació i proves, facilitant la integració amb qualsevol flux de treball actual. És una gran peça de programari que s'ha convertit en el principal impulsor de l'adopció i la innovació ES6 (i ES7). XCA,TRUE,adoptar,eines,Eina que permet muntar un CA i generar certificats de forma fàcil i amigable de cara a l'usuari finalVagrant,TRUE,adoptar,eines, <a href='https://www.vagrantup.com/'>Vagrant</a> és una eina per a desenvolupadors que facilita la creació d'entorns virtuals per a desenvolupament. En Vagrant podem instal·lar i configurar programari en una màquina virtual perquè puguem simular que estem al servidor en el qual s'allotjarà l'aplicacióHugo,TRUE,adoptar,eines,Grafana,TRUE,provar,eines,Apache Kafka,TRUE,avaluar,eines,Let's Encrypt,TRUE,avaluar,eines,OWASP Dependency-Check,TRUE,avaluar,eines,Terraform,TRUE,avaluar,eines,Zipkin,TRUE,avaluar,eines,Android-x86,TRUE,avaluar,eines,Gatling,TRUE,avaluar,eines,Jenkins as a deployment pipeline,TRUE,precaució,eines,Versions LTS,TRUE,adoptar,tècniques,sempre fer servir versions lts de les llibreriesConsumer-driven contract testing,TRUE,provar,tècniques,Pipelines as code,TRUE,provar,tècniques,APIs as a product,TRUE,avaluar,tècniques,Data Lake,TRUE,avaluar,tècniques,Serverless architecture,TRUE,avaluar,tècniques,Container security scanning,TRUE,avaluar,tècniques,OWASP ASVS,TRUE,avaluar,tècniques,VR beyond gaming,TRUE,avaluar,tècniques,Blockchain més enllà de Bitcoin,TRUE,avaluar,tècniques,While the currency aspect of Bitcoin and other cryptocurrencies gets most of the news, we are equally excited about possibilities for using the <strong>Blockchain beyond bitcoin</strong> and financial transactions. The Blockchain is a mechanism for verifying the contents of a shared ledger without relying on a centralized service. We already see the Blockchain (either the underlying technology or the public Bitcoin Blockchain) being used at the heart of systems as varied as identity, ownership, record-keeping, voting, cloud storage and even managing networks of smart devices. If you are building systems that require trust over decentralized networks, then the Blockchain is a technology worth assessing.A single CI instance for all teams,TRUE,precaució,tècniques,Big Data envy,TRUE,precaució,tècniques,Redis,TRUE,adoptar,plataformes,Redis pot ser utilitzada per les aplicacions en diferents sentits. Molt útil com a cache web així com a repositori de les sessions. La seva rapidesa, senzillesa i versatilitat li atorguen un paper principal en aplicacions amb molta audiènciaAlgolia,TRUE,adoptar,plataformes,Algolia és un cercador en SaaS que ja estem utilitzant en diferents portals. La seva potent API, temps de resposta i facilitat de gestió fan que aquesta plataforma sigui fàcilment integrable en qualsevol portal que necessiti capacitats de cerca avançadesDocker,TRUE,adoptar,plataformes,Aresta,TRUE,adoptar,plataformes,Shibboleth,TRUE,adoptar,plataformes,Plataforma d'autenticació federada i de Single Sign On opensource que permet que les aplicacions web li deleguin l'autenticació a través de SAMLv2ADFS,TRUE,adoptar,plataformes,Plataforma d'autenticació federada i de Single Sign On de Microsoft que permet que les aplicacions web li deleguin l'autenticació a través de SAMLv2. És la preferida per utilitzar en entorns i aplicacions Microsoft (Sharepoint, CRM Dynamics, Office365) i aplicacions basades en .NETAADConnect,TRUE,adoptar,plataformes,Plataforma de sincronització d'identitats que permet sincronitzar els objectes d'un Active Directory on Premise al Azure Active DirectoryMongoDB,TRUE,adoptar,plataformes,Auth0x,TRUE,avaluar,plataformes,AWS Lambda,TRUE,avaluar,plataformes,Kubernetes,TRUE,avaluar,plataformes,Pivotal Cloud Foundry,TRUE,avaluar,plataformes,Rancher,TRUE,avaluar,plataformes,Amazon API Gateway,TRUE,avaluar,plataformes,Electron,TRUE,avaluar,plataformes,Ethereum,TRUE,avaluar,plataformes,Hyperledger,TRUE,avaluar,plataformes,Netlify,TRUE,avaluar,plataformes,
+﻿name,isNew,ring,quadrant,description
+React.js,TRUE,adoptar,llenguatges i entorns de treball,
+Redux,TRUE,adoptar,llenguatges i entorns de treball,
+Spring Cloud,TRUE,adoptar,llenguatges i entorns de treball," <a href='http://projects.spring.io/spring-cloud/'>Spring Cloud</a>Spring Cloud és una nova suite de components de Spring que ens ajuda a desplegar el nostre artefacte (WAR o JAR) a plataformes cloud. Suporta múltiples clouds (Heroku, Cloud Foundry) a través del concepte de Cloud Connector"
+Markdown,TRUE,adoptar,llenguatges i entorns de treball,
+Ember.js,TRUE,provar,llenguatges i entorns de treball,
+Spring Boot,TRUE,provar,llenguatges i entorns de treball,
+Angular  2,TRUE,avaluar,llenguatges i entorns de treball,
+Scala,TRUE,avaluar,llenguatges i entorns de treball,
+Golang,TRUE,avaluar,llenguatges i entorns de treball,
+Kotlin,TRUE,avaluar,llenguatges i entorns de treball,
+AngularJS,TRUE,precaució,llenguatges i entorns de treball,
+Babel,TRUE,adoptar,eines, <a href='http://babeljs.io'>Babel.js</a> s'ha convertit en el compilador preferit per escriure JavaScript d'última generació. El seu ecosistema està creixent gràcies a la reestructuració del seu <a href='http://babeljs.io/docs/plugins/#presets'>sistema de connectors</a>. Permet als desenvolupadors escriure codi ES6 (i fins i tot ES7) que s'executi al navegador o al servidor sense sacrificar compatibilitat enrere per a navegadors antics, amb una configuració molt reduïda. Compta amb suport de primera classe per a diferents sistemes de compilació i proves, facilitant la integració amb qualsevol flux de treball actual. És una gran peça de programari que s'ha convertit en el principal impulsor de l'adopció i la innovació ES6 (i ES7). 
+XCA,TRUE,adoptar,eines,Eina que permet muntar un CA i generar certificats de forma fàcil i amigable de cara a l'usuari final
+Vagrant,TRUE,adoptar,eines, <a href='https://www.vagrantup.com/'>Vagrant</a> és una eina per a desenvolupadors que facilita la creació d'entorns virtuals per a desenvolupament. En Vagrant podem instal·lar i configurar programari en una màquina virtual perquè puguem simular que estem al servidor en el qual s'allotjarà l'aplicació
+Hugo,TRUE,adoptar,eines,
+Grafana,TRUE,provar,eines,
+Apache Kafka,TRUE,avaluar,eines,
+Let's Encrypt,TRUE,avaluar,eines,
+OWASP Dependency-Check,TRUE,avaluar,eines,
+Terraform,TRUE,avaluar,eines,
+Zipkin,TRUE,avaluar,eines,
+Android-x86,TRUE,avaluar,eines,
+Gatling,TRUE,avaluar,eines,
+Jenkins as a deployment pipeline,TRUE,precaució,eines,
+Versions LTS,TRUE,adoptar,tècniques,sempre fer servir versions lts de les llibreries
+Consumer-driven contract testing,TRUE,provar,tècniques,
+Pipelines as code,TRUE,provar,tècniques,
+APIs as a product,TRUE,avaluar,tècniques,
+Data Lake,TRUE,avaluar,tècniques,
+Serverless architecture,TRUE,avaluar,tècniques,
+Container security scanning,TRUE,avaluar,tècniques,
+OWASP ASVS,TRUE,avaluar,tècniques,
+VR beyond gaming,TRUE,avaluar,tècniques,
+Blockchain més enllà de Bitcoin,TRUE,avaluar,tècniques,While the currency aspect of Bitcoin and other cryptocurrencies gets most of the news, we are equally excited about possibilities for using the <strong>Blockchain beyond bitcoin</strong> and financial transactions. The Blockchain is a mechanism for verifying the contents of a shared ledger without relying on a centralized service. We already see the Blockchain (either the underlying technology or the public Bitcoin Blockchain) being used at the heart of systems as varied as identity, ownership, record-keeping, voting, cloud storage and even managing networks of smart devices. If you are building systems that require trust over decentralized networks, then the Blockchain is a technology worth assessing.
+A single CI instance for all teams,TRUE,precaució,tècniques,
+Big Data envy,TRUE,precaució,tècniques,
+Redis,TRUE,adoptar,plataformes,Redis pot ser utilitzada per les aplicacions en diferents sentits. Molt útil com a cache web així com a repositori de les sessions. La seva rapidesa, senzillesa i versatilitat li atorguen un paper principal en aplicacions amb molta audiència
+Algolia,TRUE,adoptar,plataformes,Algolia és un cercador en SaaS que ja estem utilitzant en diferents portals. La seva potent API, temps de resposta i facilitat de gestió fan que aquesta plataforma sigui fàcilment integrable en qualsevol portal que necessiti capacitats de cerca avançades
+Docker,TRUE,adoptar,plataformes,
+Aresta,TRUE,adoptar,plataformes,
+Shibboleth,TRUE,adoptar,plataformes,Plataforma d'autenticació federada i de Single Sign On opensource que permet que les aplicacions web li deleguin l'autenticació a través de SAMLv2
+ADFS,TRUE,adoptar,plataformes,Plataforma d'autenticació federada i de Single Sign On de Microsoft que permet que les aplicacions web li deleguin l'autenticació a través de SAMLv2. És la preferida per utilitzar en entorns i aplicacions Microsoft (Sharepoint, CRM Dynamics, Office365) i aplicacions basades en .NET
+AADConnect,TRUE,adoptar,plataformes,Plataforma de sincronització d'identitats que permet sincronitzar els objectes d'un Active Directory on Premise al Azure Active Directory
+MongoDB,TRUE,adoptar,plataformes,
+Auth0x,TRUE,avaluar,plataformes,
+AWS Lambda,TRUE,avaluar,plataformes,
+Kubernetes,TRUE,avaluar,plataformes,
+Pivotal Cloud Foundry,TRUE,avaluar,plataformes,
+Rancher,TRUE,avaluar,plataformes,
+Amazon API Gateway,TRUE,avaluar,plataformes,
+Electron,TRUE,avaluar,plataformes,
+Ethereum,TRUE,avaluar,plataformes,
+Hyperledger,TRUE,avaluar,plataformes,
+Netlify,TRUE,avaluar,plataformes,
