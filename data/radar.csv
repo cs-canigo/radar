@@ -53,3 +53,5 @@ Electron,TRUE,avaluar,plataformes,
 Ethereum,TRUE,avaluar,plataformes,
 Hyperledger,TRUE,avaluar,plataformes,
 Netlify,TRUE,avaluar,plataformes,
+Nuxeo,TRUE,avaluar,plataformes,"L'adopció de Nuxeo ha crescut exponencialment aquests darrers anys. CMS open source amb possibilitat de clúster i codebase únic, mateix per la versió comercial i gratuita. El seu suport i comunitat és força gran i es preveu que creixi la seva adopció. " 
+Alfresco Community,TRUE,precaució,plataformes,"Alfresco Community a dia d'avui té poc a veure amb la versió Enterprise. De fet, la documentació de la versió community ja no està mantinguda i des de 2015 el codebase de la versió comercial i gratuïta ja no és el mateix. La version community està molt poc mantiguda i cada cop més te menys a veure amb la comercial"
