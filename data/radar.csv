@@ -37,7 +37,7 @@ Blockchain més enllà de Bitcoin,TRUE,avaluar,tècniques,"While the currency as
 Big Data envy,TRUE,precaució,tècniques,
 Redis,TRUE,adoptar,plataformes,"Redis pot ser utilitzada per les aplicacions en diferents sentits. Molt útil com a cache web així com a repositori de les sessions. La seva rapidesa, senzillesa i versatilitat li atorguen un paper principal en aplicacions amb molta audiència"
 Algolia,TRUE,adoptar,plataformes,"Algolia és un cercador en SaaS que ja estem utilitzant en diferents portals. La seva potent API, temps de resposta i facilitat de gestió fan que aquesta plataforma sigui fàcilment integrable en qualsevol portal que necessiti capacitats de cerca avançades"
-Docker,TRUE,adoptar,plataformes,"La containerització d'aplicacions permet reduïr la complexitat i orientar les solucions a serveis stateless a cost molt baix", 
+Docker,TRUE,adoptar,plataformes,"La containerització d'aplicacions permet reduïr la complexitat i orientar les solucions a serveis stateless a cost molt baix"
 Aresta,TRUE,adoptar,plataformes,
 Shibboleth,TRUE,adoptar,plataformes,"Plataforma d'autenticació federada i de Single Sign On opensource que permet que les aplicacions web li deleguin l'autenticació a través de SAMLv2"
 ADFS,TRUE,adoptar,plataformes,"Plataforma d'autenticació federada i de Single Sign On de Microsoft que permet que les aplicacions web li deleguin l'autenticació a través de SAMLv2. És la preferida per utilitzar en entorns i aplicacions Microsoft (Sharepoint, CRM Dynamics, Office365) i aplicacions basades en .NET"
