@@ -3,9 +3,9 @@ Babel,TRUE,adoptar,eines," <a href='http://babeljs.io'>Babel.js</a> s'ha convert
 XCA,TRUE,adoptar,eines,"Eina que permet muntar un CA i generar certificats de forma fàcil i amigable de cara a l'usuari final"
 Vagrant,TRUE,adoptar,eines," <a href='https://www.vagrantup.com/'>Vagrant</a> és una eina per a desenvolupadors que facilita la creació d'entorns virtuals per a desenvolupament. En Vagrant podem instal·lar i configurar programari en una màquina virtual perquè puguem simular que estem al servidor en el qual s'allotjarà l'aplicació"
 Hugo,TRUE,adoptar,eines,
-Grafana,TRUE,provar,eines,
+Grafana,TRUE,adoptar,eines,"Frontend per visualitzar dades en format gràfic de diferents fonts. Es pot agregar des d'un Elasticsarch fins a eines de monitoratge com Nagios o Zabbix. Complementa molt bé a Kibana i suporta multitenant"  
 Apache Kafka,TRUE,avaluar,eines,
-Let's Encrypt,TRUE,avaluar,eines,
+Let's Encrypt,TRUE,adoptar,eines,"Permet generar i instalar certificats per habilitar tràfic SSL/HTTPs a nivell aplicatiu. Pot també generar certificats per desenvolupament."
 OWASP Dependency-Check,TRUE,avaluar,eines,
 Terraform,TRUE,avaluar,eines,
 Zipkin,TRUE,avaluar,eines,
@@ -22,7 +22,7 @@ Angular  2,TRUE,avaluar,llenguatges i entorns de treball,
 Scala,TRUE,avaluar,llenguatges i entorns de treball,
 Golang,TRUE,avaluar,llenguatges i entorns de treball,
 Kotlin,TRUE,avaluar,llenguatges i entorns de treball,
-AngularJS,TRUE,precaució,llenguatges i entorns de treball,
+AngularJS,TRUE,precaució,llenguatges i entorns de treball,"AngularJs o Angular 1.0 és totalment diferent a Angular 2 i posteriors versions. Tot i que encara no és a EOL es recomana l'adopció d'Anuglar 2+ al ser una arquitectura que tindrà més recorregut i totalment diferent a AngularJs"
 Versions LTS,TRUE,adoptar,tècniques,"sempre fer servir versions lts de les llibreries"
 Consumer-driven contract testing,TRUE,provar,tècniques,
 Pipelines as code,TRUE,provar,tècniques,
@@ -33,11 +33,11 @@ Container security scanning,TRUE,avaluar,tècniques,
 OWASP ASVS,TRUE,avaluar,tècniques,
 VR beyond gaming,TRUE,avaluar,tècniques,
 Blockchain més enllà de Bitcoin,TRUE,avaluar,tècniques,"While the currency aspect of Bitcoin and other cryptocurrencies gets most of the news, we are equally excited about possibilities for using the <strong>Blockchain beyond bitcoin</strong> and financial transactions. The Blockchain is a mechanism for verifying the contents of a shared ledger without relying on a centralized service. We already see the Blockchain (either the underlying technology or the public Bitcoin Blockchain) being used at the heart of systems as varied as identity, ownership, record-keeping, voting, cloud storage and even managing networks of smart devices. If you are building systems that require trust over decentralized networks, then the Blockchain is a technology worth assessing."
-A single CI instance for all teams,TRUE,precaució,tècniques,
+Única instància CI per tots els equips,TRUE,precaució,tècniques,
 Big Data envy,TRUE,precaució,tècniques,
 Redis,TRUE,adoptar,plataformes,"Redis pot ser utilitzada per les aplicacions en diferents sentits. Molt útil com a cache web així com a repositori de les sessions. La seva rapidesa, senzillesa i versatilitat li atorguen un paper principal en aplicacions amb molta audiència"
 Algolia,TRUE,adoptar,plataformes,"Algolia és un cercador en SaaS que ja estem utilitzant en diferents portals. La seva potent API, temps de resposta i facilitat de gestió fan que aquesta plataforma sigui fàcilment integrable en qualsevol portal que necessiti capacitats de cerca avançades"
-Docker,TRUE,adoptar,plataformes,
+Docker,TRUE,adoptar,plataformes,"La containerització d'aplicacions permet reduïr la complexitat i orientar les solucions a serveis stateless a cost molt baix" 
 Aresta,TRUE,adoptar,plataformes,
 Shibboleth,TRUE,adoptar,plataformes,"Plataforma d'autenticació federada i de Single Sign On opensource que permet que les aplicacions web li deleguin l'autenticació a través de SAMLv2"
 ADFS,TRUE,adoptar,plataformes,"Plataforma d'autenticació federada i de Single Sign On de Microsoft que permet que les aplicacions web li deleguin l'autenticació a través de SAMLv2. És la preferida per utilitzar en entorns i aplicacions Microsoft (Sharepoint, CRM Dynamics, Office365) i aplicacions basades en .NET"
