@@ -3,7 +3,7 @@ Babel,TRUE,adoptar,eines," <a href='http://babeljs.io'>Babel.js</a> s'ha convert
 XCA,TRUE,adoptar,eines,"Eina que permet muntar un CA i generar certificats de forma fàcil i amigable de cara a l'usuari final"
 Vagrant,TRUE,adoptar,eines," <a href='https://www.vagrantup.com/'>Vagrant</a> és una eina per a desenvolupadors que facilita la creació d'entorns virtuals per a desenvolupament. En Vagrant podem instal·lar i configurar programari en una màquina virtual perquè puguem simular que estem al servidor en el qual s'allotjarà l'aplicació"
 Hugo,TRUE,adoptar,eines,
-Grafana,TRUE,adoptar,eines,"Frontend per visualitzar dades en format gràfic de diferents fonts. Es pot agregar des d'un Elasticsarch fins a eines de monitoratge com Nagios o Zabbix. Complementa molt bé a Kibana i suporta multitenant",  
+Grafana,TRUE,adoptar,eines,"Frontend per visualitzar dades en format gràfic de diferents fonts. Es pot agregar des d'un Elasticsarch fins a eines de monitoratge com Nagios o Zabbix. Complementa molt bé a Kibana i suporta multitenant"
 Apache Kafka,TRUE,avaluar,eines,
 Let's Encrypt,TRUE,adoptar,eines,"Permet generar i instalar certificats per habilitar tràfic SSL/HTTPs a nivell aplicatiu. Pot també generar certificats per desenvolupament."
 OWASP Dependency-Check,TRUE,avaluar,eines,
@@ -53,5 +53,5 @@ Electron,TRUE,avaluar,plataformes,
 Ethereum,TRUE,avaluar,plataformes,
 Hyperledger,TRUE,avaluar,plataformes,
 Netlify,TRUE,avaluar,plataformes,
-Nuxeo,TRUE,avaluar,plataformes,"L'adopció de Nuxeo ha crescut exponencialment aquests darrers anys. CMS open source amb possibilitat de clúster i codebase únic, mateix per la versió comercial i gratuita. El seu suport i comunitat és força gran i es preveu que creixi la seva adopció. ", 
+Nuxeo,TRUE,avaluar,plataformes,"L'adopció de Nuxeo ha crescut exponencialment aquests darrers anys. CMS open source amb possibilitat de clúster i codebase únic, mateix per la versió comercial i gratuita. El seu suport i comunitat és força gran i es preveu que creixi la seva adopció. "
 Alfresco Community,TRUE,precaució,plataformes,"Alfresco Community a dia d'avui té poc a veure amb la versió Enterprise. De fet, la documentació de la versió community ja no està mantinguda i des de 2015 el codebase de la versió comercial i gratuïta ja no és el mateix."
