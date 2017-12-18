@@ -1,31 +1,26 @@
 name,isNew,ring,quadrant,description
-Babel,TRUE,adoptar,eines," <a href='http://babeljs.io'>Babel.js</a> s'ha convertit en el compilador preferit per escriure JavaScript d'última generació. El seu ecosistema està creixent gràcies a la reestructuració del seu <a href='http://babeljs.io/docs/plugins/#presets'>sistema de connectors</a>. Permet als desenvolupadors escriure codi ES6 (i fins i tot ES7) que s'executi al navegador o al servidor sense sacrificar compatibilitat enrere per a navegadors antics, amb una configuració molt reduïda. Compta amb suport de primera classe per a diferents sistemes de compilació i proves, facilitant la integració amb qualsevol flux de treball actual. És una gran peça de programari que s'ha convertit en el principal impulsor de l'adopció i la innovació ES6 (i ES7). "
 XCA,TRUE,adoptar,eines,"Eina que permet muntar una Autoritat de Certificació (CA) i generar certificats de forma fàcil i amigable de cara a l'usuari final"
-Vagrant,TRUE,adoptar,eines," <a href='https://www.vagrantup.com/'>Vagrant</a> és una eina per a desenvolupadors que facilita la creació d'entorns virtuals per a desenvolupament. En Vagrant podem instal·lar i configurar programari en una màquina virtual perquè puguem simular que estem al servidor en el qual s'allotjarà l'aplicació"
+Vagrant,TRUE,adoptar,eines," <a href='https://www.vagrantup.com/'>Vagrant</a> és una eina per a desenvolupadors que facilita la creació d'entorns virtuals per a desenvolupament. En Vagrant podem instal·lar i configurar programari en una màquina virtual perquè poguem simular que estem al servidor en el qual s'allotjarà l'aplicació. És l'eina sobre la qual es basa l'<a href='http://canigo.ctti.gencat.cat/canigo/entorn-desenvolupament/'>entorn de desenvolupament de Canigó</a>"
 Hugo,TRUE,adoptar,eines," <a href='https://www.gohugo.io/'>Hugo</a> és una eina que facilita la creació de llocs web estàtics. Basada en unes regles simples, plantilles, i escrivint les pàgines en markdown, és una eina utilitzada en el portal d'arquitectura i el de qualitat."
-Grafana,TRUE,adoptar,eines,"Frontend per visualitzar dades en format gràfic de diferents fonts. Es pot agregar des d'un Elasticsarch fins a eines de monitoratge com Nagios o Zabbix. Complementa molt bé a Kibana i suporta multitenant"
 Let's Encrypt,TRUE,adoptar,eines,"Permet generar i instalar certificats per habilitar tràfic SSL/HTTPs a nivell aplicatiu. Pot també generar certificats per desenvolupament."
-Apache Kafka,TRUE,avaluar,eines,
-OWASP Dependency-Check,TRUE,avaluar,eines,
-Terraform,TRUE,avaluar,eines,
-Zipkin,TRUE,avaluar,eines,
-Android-x86,TRUE,avaluar,eines,
-Gatling,TRUE,avaluar,eines,
-Jenkins as a deployment pipeline,TRUE,precaució,eines,
-React.js,TRUE,adoptar,llenguatges i entorns de treball,
-Redux,TRUE,adoptar,llenguatges i entorns de treball,
+Apache Kafka,TRUE,provar,eines,"Ens estem trobant aplicacions que necessiten capturar informació en base a seqüències d'esdeveniments i enviar-les a consumidors. Apache Kafka és l'opció més adequada com a framework de missatgeria open source que cobreix aquest espai tant per a traspàs d'informació per a ser tractada de forma analítica com en streams d'informació en temps real."
+Grafana,TRUE,avaluar,eines,"Frontend per visualitzar dades en format gràfic de diferents fonts. Es pot agregar des d'un Elasticsearch fins a eines de monitoratge com Nagios o Zabbix. Complementa molt bé a Kibana i suporta multitenant"
+Babel,TRUE,avaluar,eines," <a href='http://babeljs.io'>Babel.js</a> s'ha convertit en el compilador preferit per escriure JavaScript d'última generació. El seu ecosistema està creixent gràcies a la reestructuració del seu <a href='http://babeljs.io/docs/plugins/#presets'>sistema de connectors</a>. Permet als desenvolupadors escriure codi ES6 (i fins i tot ES7) que s'executi al navegador o al servidor sense sacrificar compatibilitat enrere per a navegadors antics, amb una configuració molt reduïda. Compta amb suport de primera classe per a diferents sistemes de compilació i proves, facilitant la integració amb qualsevol flux de treball actual. És una gran peça de programari que s'ha convertit en el principal impulsor de l'adopció i la innovació ES6 (i ES7). "
 Spring Cloud,TRUE,adoptar,llenguatges i entorns de treball," <a href='http://projects.spring.io/spring-cloud/'>Spring Cloud</a>Spring Cloud és una nova suite de components de Spring que ens ajuda a desplegar el nostre artefacte (WAR o JAR) a plataformes cloud. Suporta múltiples clouds (Heroku, Cloud Foundry) a través del concepte de Cloud Connector"
 Markdown,TRUE,adoptar,llenguatges i entorns de treball,
-Ember.js,TRUE,provar,llenguatges i entorns de treball,
+Angular 2+,TRUE,provar,llenguatges i entorns de treball,
 Spring Boot,TRUE,provar,llenguatges i entorns de treball,
-Angular  2,TRUE,avaluar,llenguatges i entorns de treball,
+React.js,TRUE,avaluar,llenguatges i entorns de treball,
+Redux,TRUE,avaluar,llenguatges i entorns de treball,
+Ember.js,TRUE,avaluar,llenguatges i entorns de treball,
+Vue.js,TRUE,avaluar,llenguatges i entorns de treball,
 Scala,TRUE,avaluar,llenguatges i entorns de treball,
 Golang,TRUE,avaluar,llenguatges i entorns de treball,
 Kotlin,TRUE,avaluar,llenguatges i entorns de treball,
-AngularJS,TRUE,precaució,llenguatges i entorns de treball,"AngularJs o Angular 1.0 és totalment diferent a Angular 2 i posteriors versions. Tot i que encara no és a EOL es recomana l'adopció d'Anuglar 2+ al ser una arquitectura que tindrà més recorregut i totalment diferent a AngularJs"
-Versions LTS,TRUE,adoptar,tècniques,"sempre fer servir versions lts de les llibreries"
-Consumer-driven contract testing,TRUE,provar,tècniques,
-Pipelines as code,TRUE,provar,tècniques,
+AngularJs,TRUE,precaució,llenguatges i entorns de treball,"AngularJs o Angular 1.0 és totalment diferent a Angular 2 i posteriors versions. Tot i que encara no és a EOL es recomana l'adopció d'Angular 2+ al ser una arquitectura que tindrà més recorregut i totalment diferent a AngularJs"
+Versions LTS,TRUE,adoptar,tècniques,"En el moment d'escollir versions dels programaris a utilitzar en una aplicació o infraestructura, sempre fer servir versions de suport a llarg termini (conegudes també com a LTS, de l'anglès Long Term Support). Això permet que les aplicacions gaudeixin d'un suport extra que no tindrien de fer servir versions que no ho són"
+Proves de Contractes Dirigides per Consumidors,TRUE,avaluar,tècniques,
+Pipelines as code,TRUE,avaluar,tècniques,
 APIs as a product,TRUE,avaluar,tècniques,
 Data Lake,TRUE,avaluar,tècniques,
 Serverless architecture,TRUE,avaluar,tècniques,
