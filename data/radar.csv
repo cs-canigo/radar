@@ -7,22 +7,22 @@ Apache Kafka,TRUE,provar,eines,"Ens estem trobant aplicacions que necessiten cap
 Redis,TRUE,adoptar,plataformes,"Redis pot ser utilitzada per les aplicacions en diferents sentits. Molt útil com a cache web així com a repositori de les sessions. La seva rapidesa, senzillesa i versatilitat li atorguen un paper principal en aplicacions amb molta audiència"
 Grafana,TRUE,avaluar,eines,"Frontend per visualitzar dades en format gràfic de diferents fonts. Es pot agregar des d'un Elasticsearch fins a eines de monitoratge com Nagios o Zabbix. Complementa molt bé a Kibana i suporta multitenant"
 Babel,TRUE,avaluar,eines," <a href='http://babeljs.io'>Babel.js</a> s'ha convertit en el compilador preferit per escriure JavaScript d'última generació. El seu ecosistema està creixent gràcies a la reestructuració del seu <a href='http://babeljs.io/docs/plugins/#presets'>sistema de connectors</a>. Permet als desenvolupadors escriure codi ES6 (i fins i tot ES7) que s'executi al navegador o al servidor sense sacrificar compatibilitat enrere per a navegadors antics, amb una configuració molt reduïda. Compta amb suport de primera classe per a diferents sistemes de compilació i proves, facilitant la integració amb qualsevol flux de treball actual. És una gran peça de programari que s'ha convertit en el principal impulsor de l'adopció i la innovació ES6 (i ES7). "
-Selenium,TRUE,adoptar,eines,
+Selenium,TRUE,adoptar,eines,Amb l'adopció 
 Sikuli,TRUE,avaluar,eines,
-Spring Cloud,TRUE,adoptar,llenguatges i entorns de treball," <a href='http://projects.spring.io/spring-cloud/'>Spring Cloud</a>és una nova suite de components de Spring que ens ajuda a desplegar el nostre artefacte (WAR o JAR) a plataformes cloud. Suporta múltiples clouds (Heroku, Cloud Foundry) a través del concepte de Cloud Connector"
+Spring Cloud,TRUE,adoptar,llenguatges i entorns de treball,<a href='http://projects.spring.io/spring-cloud/'>Spring Cloud</a>és una nova suite de components de Spring que ens ajuda a desplegar el nostre artefacte (WAR o JAR) a plataformes cloud. Suporta múltiples clouds (Heroku, Cloud Foundry) a través del concepte de Cloud Connector"
 Spring Boot,TRUE,adoptar,llenguatges i entorns de treball, <a href='https://projects.spring.io/spring-boot'>Spring Boot</a>permet de forma ràpida desenvolupar aplicacions utilitzant framework Spring. La utilització de Spring Boot és molt orientada a contenidors i microserveis ja que permet l'autodesplegament amb servidor d'aplicacions embegut
 Markdown,TRUE,adoptar,llenguatges i entorns de treball,Llenguatge d'edició lleuger que afavoreix l'edició i publicació de contingut al web. Molt adoptat sobretot per documentació tècnica a entorns cloud o quan s'utilitza en blogs generats estàticament amb eines com ara Hugo o Jekyll.
-Angular 2+,TRUE,provar,llenguatges i entorns de treball,
-React.js,TRUE,avaluar,llenguatges i entorns de treball,
+Angular 2+,TRUE,adoptar,llenguatges i entorns de treball,<a href='https://angular.io/'>Angular</a> és un framework mantés per Google que s'utilitza per crear i mantenir aplicacions web d'una sola pàgina. La seva adopció ha estat meteòrica i juntament amb React abarca la major part del mercat de SPA.
+React.js,TRUE,adoptar,llenguatges i entorns de treball,<a href='https://reactjs.org/'>React</a>és un framework mantés per Facebook que s'utilitza per crear i mantenir aplicacions web d'una sola pàgina. La seva adopció ha estat meteòrica i la combinació (React+Redux) té una popularitat molt semblant a Angular, els líders del mercat.
 Redux,TRUE,avaluar,llenguatges i entorns de treball,
 Scala,TRUE,avaluar,llenguatges i entorns de treball,
 Golang,TRUE,avaluar,llenguatges i entorns de treball,
 Kotlin,TRUE,avaluar,llenguatges i entorns de treball,
 AngularJs,TRUE,precaució,llenguatges i entorns de treball,"AngularJs o Angular 1.0 és totalment diferent a Angular 2 i posteriors versions. Tot i que encara no és a EOL es recomana l'adopció d'Angular 2+ al ser una arquitectura que tindrà més recorregut i totalment diferent a AngularJs"
 Versions LTS,TRUE,adoptar,tècniques,"En el moment d'escollir versions dels programaris a utilitzar en una aplicació o infraestructura, sempre fer servir versions de suport a llarg termini (conegudes també com a LTS, de l'anglès Long Term Support). Això permet que les aplicacions gaudeixin d'un suport extra que no tindrien de fer servir versions que no ho són"
-Proves de Contractes dirigides per Consumidors,TRUE,avaluar,tècniques,
-TDD,TRUE,adoptar,tècniques,
-BDD,TRUE,avaluear,tècniques,
+Proves de Contractes dirigides per Consumidors,TRUE,avaluar,tècniques, Amb la adopció de microserveis, la validació d'interaccions entre serveis es fa més difícil al creixer el nombre.  
+TDD,TRUE,adoptar,tècniques,Desenvolupament orientat a les proves (TDD) és una pràctica que planteja escriure primer les proves unitaries abans del codi. Utilitzant llibreries com ara JUnit per Java, la introducció de proves abans de codi afavoreix el codi net i el manteniment i introducció d'evolutius sobre el codi. 
+BDD,TRUE,avaluear,tècniques,Desevolupament orientat al comportament (BDD) és una pràctica que facilita la interacció entre els rols més tècnics i funcionals. Permet en llenguatge d'alt nivell escriure les expectatives d'un sistema i validar-ho amb proves tècniques. Eines com ara Cucumber o Gherkin faciliten l'adopció d'aquesta pràctica. 
 Pipelines com codi,TRUE,adoptar,tècniques,
 APIs com producte,TRUE,avaluar,tècniques,
 Data Lake,TRUE,avaluar,tècniques,
