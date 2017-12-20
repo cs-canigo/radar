@@ -19,9 +19,10 @@ Scala,TRUE,avaluar,llenguatges i entorns de treball,
 Golang,TRUE,avaluar,llenguatges i entorns de treball,
 Kotlin,TRUE,avaluar,llenguatges i entorns de treball,
 AngularJs,TRUE,precaució,llenguatges i entorns de treball,"AngularJs o Angular 1.0 és totalment diferent a Angular 2 i posteriors versions. Tot i que encara no és a EOL es recomana l'adopció d'Angular 2+ al ser una arquitectura que tindrà més recorregut i totalment diferent a AngularJs"
-Versions LTS,TRUE,adoptar,tècniques,"En el moment d'escollir versions dels programaris a utilitzar en una aplicació o infraestructura, sempre fer servir versions de suport a llarg termini (conegudes també com a LTS, de l'anglès Long Term Support). Això permet que les aplicacions gaudeixin d'un suport extra que no tindrien de fer servir versions que no ho són."
+Proves de Contractes dirigides per Consumidors,TRUE,avaluar,tècniques,"Amb la adopció de microserveis, la validació d'interaccions entre serveis es fa més difícil al crèixer el nombre. Eines com pact o pacto implementen la idea CDC i permeten validar consumidors de forma senzilla." 
 TDD,TRUE,adoptar,tècniques,"Desenvolupament orientat a les proves (TDD) és una pràctica que planteja escriure primer les proves unitaries abans del codi. Utilitzant llibreries com ara JUnit per Java, la introducció de proves abans de codi afavoreix el codi net i el manteniment i introducció d'evolutius sobre el codi." 
 BDD,TRUE,avaluear,tècniques,"Desevolupament orientat al comportament (BDD) és una pràctica que facilita la interacció entre els rols més tècnics i funcionals. Permet en llenguatge d'alt nivell escriure les expectatives d'un sistema i validar-ho amb proves tècniques. Eines com ara Cucumber o Gherkin faciliten l'adopció d'aquesta pràctica."
+Versions LTS,TRUE,adoptar,tècniques,"En el moment d'escollir versions dels programaris a utilitzar en una aplicació o infraestructura, sempre fer servir versions de suport a llarg termini (conegudes també com a LTS, de l'anglès Long Term Support). Això permet que les aplicacions gaudeixin d'un suport extra que no tindrien de fer servir versions que no ho són."
 Pipelines com codi,TRUE,adoptar,tècniques,
 APIs com producte,TRUE,avaluar,tècniques,
 Data Lake,TRUE,avaluar,tècniques,
