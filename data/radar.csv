@@ -40,7 +40,7 @@ Shibboleth,TRUE,adoptar,plataformes,"Plataforma d'autenticació federada i de Si
 ADFS,TRUE,adoptar,plataformes,"Plataforma d'autenticació federada i de Single Sign On de Microsoft que permet que les aplicacions web li deleguin l'autenticació a través de SAMLv2. És la preferida per utilitzar en entorns i aplicacions Microsoft (Sharepoint, CRM Dynamics, Office365) i aplicacions basades en .NET"
 AADConnect,TRUE,adoptar,plataformes,"Plataforma de sincronització d'identitats que permet sincronitzar els objectes d'un Active Directory on Premise al Azure Active Directory"
 MongoDB,TRUE,adoptar,plataformes,
-Auth0x,TRUE,avaluar,plataformes,
+Auth0,TRUE,avaluar,plataformes,
 Kubernetes,TRUE,adoptar,plataformes,
 Pivotal Cloud Foundry,TRUE,avaluar,plataformes,
 Rancher,TRUE,avaluar,plataformes,
